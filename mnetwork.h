@@ -1,4 +1,3 @@
-// mnetwork.h
 #pragma once
 
 #include <iostream>
